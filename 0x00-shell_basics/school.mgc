@@ -1,2 +1,2 @@
-0 string HOLBERTON Holberton data
-l:mime Holberton
+echo '0 string SCHOOL School data' > school.magic
+file -C -m school.magic
